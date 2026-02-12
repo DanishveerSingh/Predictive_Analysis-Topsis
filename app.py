@@ -51,8 +51,8 @@ def calculate():
     except SystemExit:
         return "Error occurred during TOPSIS calculation."
     
-    sender_email = os.environ.get("EMAIL_USER")
-    app_password = os.environ.get("EMAIL_PASSWORD")
+    sender_email = os.getenv("EMAIL_USER")
+    app_password = os.getenv("EMAIL_PASSWORD")
 
     try:
         msg = EmailMessage()
