@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: Topsis-DanishveerSingh-102317081
+Version: 0.1
+Summary: A Topsis Report Generator
+Author: Danishveer Singh
+Author-email: dsingh3_be23@thapar.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENCE.txt
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: license-file
+Dynamic: summary
