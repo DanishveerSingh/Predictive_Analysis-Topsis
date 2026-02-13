@@ -2,7 +2,7 @@
 
 # 1. Methodology
 
-Data Collection ----> Calculating Root Square Sum for each feature ---> Normalizing every attribute ----> Finding ideal value ----> Calculating Euclidean distance ----> Finding Topsis Score ----> Ranking based on topsis score
+Data Collection ----> Calculating Root Square Sum for each feature ----> Normalizing every attribute ----> Finding ideal value ----> Calculating Euclidean distance ----> Finding Topsis Score ----> Ranking based on topsis score
 
 # 2. Description
 
